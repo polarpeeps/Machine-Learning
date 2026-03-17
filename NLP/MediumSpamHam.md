@@ -1,8 +1,8 @@
 # Spam-Email-Classification
    Analyzing the content of an Email dataset which contains above 5000 email sample with labeled spam or not.We have built a model to classify given email Spam((junk email) or ham (good email) using Naive Bayes Classification algorithm with accuracy score of ~99 .
- #Naive Bayes Classifier Introduction
+ # Naive Bayes Classifier Introduction
   Naive Bayes methods are a set of supervised learning algorithms based on applying Bayes’ theorem with the “naive” assumption of independence between every pair of features
- #Checking the distribution of data.
+ # Checking the distribution of data.
  
 ![with lier](https://user-images.githubusercontent.com/40944675/44002023-a89200e2-9e59-11e8-923b-a2c3b074c2ec.png)
 
